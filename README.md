@@ -4,3 +4,5 @@ Free for all Pax8 Partners
 Please import as a solution in your maker experience
 
 Note please check the send email step to ensure the correct email address is being used!
+
+![alt text](https://github.com/benopax8apac/Pax8_HYDApp/blob/main/How%20are%20you%20doing%20App%20Splash%20Screen.png)
